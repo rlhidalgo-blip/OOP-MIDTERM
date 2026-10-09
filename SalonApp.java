@@ -504,7 +504,7 @@ public class SalonApp {
                     (i + 1)
                             + ". "
                             + staff.getName()
-                            + " — "
+                            + " - "
                             + staff.getRole()
             );
         }
